@@ -1,0 +1,21 @@
+# Query: inventory management app
+# ContextLines: 1
+
+4 results - 4 files
+
+client/build/static/js/main.c377922b.chunk.js:
+  1: ⟪ 28458 characters skipped ⟫ron jumbotron-fluid jumbotron_local"},r.a.createElement("div",{className:"container"},r.a.createElement("h1",{className:"display-4"},"Welcome to Fiesta!"),r.a.createElement("p",{className:"lead"},"An inventory management app for stores that sell Nutanix Swag "))),r.a.createElement("div",{className:"options"},r.a.createElement(p.b,{to:"/stores"},r.a.createElement("div",{className:"card"},r.a.createElement("p",null,"Stores"),r.a.createElement("img",{className:"icon",alt:"stores icon",src:I.a}))),r.a.createElement(p.b,{to:"/products"},r.a.createElement("div",{className:"card"},r.a.createElement("p",null,"Products"),r.a.createElement("img",{className:"icon",alt:"product icon",src:A.a}))),r.a.createElement(p.b,{to:"/inventory"},r.a.createElement("div",{className:"card"},r.a.createElement("p",null,"Inventory"),r.a.createElement("img",{className:"icon",alt:"inventory icon",src:M.a})))))}}]),t}(n.Component),F=(a(79),function(e){function t(){return Object(l.a)(this,t),Object(i.a)(this,Object(u.a)(t).apply(this,arguments))}return Object(m.a)(t,e),Object(s.a)(t,[{key:"render",value:function(){var e=this,t=this.props.stores.map((function(t){return r.a.createElement("div",{key:t.id,className:"s
+  2  //# sourceMappingURL=main.c377922b.chunk.js.map
+
+client/build/static/js/main.c377922b.chunk.js.map:
+  1: ⟪ 66304 characters skipped ⟫id jumbotron_local\">\n                    <div className=\"container\">\n                        <h1 className=\"display-4\">Welcome to Fiesta!</h1>\n                        <p className=\"lead\">An inventory management app for stores that sell party supplies.</p>\n                    </div>\n                </div>\n                <div className=\"options\">\n                    <Link to='/stores'>\n                        <div className=\"card\">\n                            <p>Stores</p>\n                            <img className=\"icon\" alt=\"stores icon\" src={storeimg} />\n                        </div>\n                    </Link>\n                    <Link to='/products'>\n                        <div className=\"card\">\n                            <p>Products</p>\n                            <img className=\"icon\" alt=\"product icon\" src={prodimg} />\n                        </div>\n                    </Link>\n                    <Link to='/inventory'>\n                        <div className=\"card\">\n                            <p>Inventory</p>\n                            <img className=\"icon\" alt=\"inventory icon\" src={inventoryimg} />\n                      
+
+client/src/components/Dashboard/index.js:
+  14                          <h1 className="display-4">Welcome to .NEXT 2024 - Barcelona </h1>
+  15:                         <p className="lead">An inventory management app for stores that sell Nutanix swag</p>
+  16                      </div>
+
+src/components/Dashboard/index.js:
+  14                          <h1 className="display-4">Welcome to .NEXT 2024 - Barcelona </h1>
+  15:                         <p className="lead">An inventory management app for stores that sell Nutanix swag</p>
+  16                      </div>
