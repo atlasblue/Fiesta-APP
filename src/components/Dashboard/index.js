@@ -12,7 +12,7 @@ class Dashboard extends Component {
                 <div className="jumbotron jumbotron-fluid jumbotron_local">
                     <div className="container">
                         <h1 className="display-4">Welcome to .NEXT 2024 - Barcelona </h1>
-                        <p className="lead">An inventory management app for stores that sell Nutanix swag.</p>
+                        <p className="lead">An inventory management app for stores that sell Nutanix swag NOW</p>
                     </div>
                 </div>
                 <div className="options">
